@@ -1,6 +1,6 @@
 {
     "name": "valeriy-brunov/libajax",
-    "description": "Libajax plugin for CakePHP",
+    "description": "Плагин cakePHP, который содержит библиотеку, реализованную ввиде виджета jQuery, для простого и лёгкого использования AJAX.",
     "type": "cakephp-plugin",
     "home": "https://github.com/valeriy-brunov/libajax",
     "license": "MIT",
@@ -10,11 +10,6 @@
     "autoload": {
         "psr-4": {
             "Libajax\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Cake\\Test\\": "vendor/cakephp/cakephp/tests/"
         }
     }
 }
